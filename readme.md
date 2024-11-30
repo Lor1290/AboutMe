@@ -1,9 +1,9 @@
 # About Me:
-🔭 I'm currently working on a WebSite 
-👯 I'm looking forward to craet a WebApp  
-🙋 I'm still learning about Game Engine 
-🏵️ I'm studying machine learning  
-💥 Fun fact: 6502 Enjoyer  
+🔭 I'm currently working on a WebSite <br/>
+👯 I'm looking forward to craet a WebApp <br/> 
+🙋 I'm still learning about Game Engine <br/>
+🏵️ I'm studying machine learning <br/> 
+💥 Fun fact: 6502 Enjoyer <br/> 
 
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
