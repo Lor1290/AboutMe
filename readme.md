@@ -1,6 +1,6 @@
 # About Me:
 🔭 I'm currently working on a WebSite <br/>
-👯 I'm looking forward to craet a WebApp <br/> 
+👯 I'm looking forward to create a WebApp <br/> 
 🙋 I'm still learning about Game Engine <br/>
 🏵️ I'm studying machine learning <br/> 
 💥 Fun fact: 6502 Enjoyer <br/> 
