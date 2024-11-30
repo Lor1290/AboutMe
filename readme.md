@@ -1,9 +1,9 @@
 # About Me:
-🔭 I'm currently working on a web application  
-👯 I'm looking to collaborate on a mobile game  
-🙋 I'm looking for help with game-engine  
-🏵️ I'm currently studying machine learning  
-💥 Fun fact: Evangelion enjoyer  
+🔭 I'm currently working on a WebSite 
+👯 I'm looking forward to craet a WebApp  
+🙋 I'm still learning about Game Engine 
+🏵️ I'm studying machine learning  
+💥 Fun fact: 6502 Enjoyer  
 
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
