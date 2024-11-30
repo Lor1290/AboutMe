@@ -2,7 +2,7 @@
 🔭 I'm currently working on a WebSite <br/>
 👯 I'm looking forward to create a WebApp <br/> 
 🙋 I'm still learning about GameEngine <br/>
-🏵️ I'm studying machine learning <br/> 
+🏵️ I'm studying MachineLearning <br/> 
 💥 I realy like CammelCase <br/> 
 
 # 💻 Tech Stack:
